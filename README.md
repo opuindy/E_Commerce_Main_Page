@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://e-commerce-main-page-psi.vercel.app/)
+- Live Site URL: [Goto live page](https://e-commerce-main-page-psi.vercel.app/)
 
 ## My process
 
