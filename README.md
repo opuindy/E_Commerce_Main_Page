@@ -1,25 +1,4 @@
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview]
-- This Is App is the main page of a regular E_commercer page
-  - [The challenge]
-  - To build this e-commerce product page and get it looking as close to the design as possible.
-  - [Screenshot]
-  - 
-  - [Links](#links)
-- [My process](#This Webpage was built using a mobile first approach strategy)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -35,7 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](![image](https://user-images.githubusercontent.com/101146885/195325491-70ad6d9a-6da4-46be-a551-e8e61de09c79.png)
+)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -60,11 +40,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
+- [useReducer and Context-Api] - For State Management
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+This was my first time attempting a beginner project like this.
+I learnt the basic use of the use reducer and context-api in state management.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+### Continued development
+
+Would love if anyone can review the code and suggest some steps to improve my self. Also I would continue to study to increase my comfortability using the style components, useReducer and Context-api
