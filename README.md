@@ -3,11 +3,14 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ## Table of contents
 
-- [Overview](#This Is App is the main page of a regular E_commercer page)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Overview]
+- This Is App is the main page of a regular E_commercer page
+  - [The challenge]
+  - To build this e-commerce product page and get it looking as close to the design as possible.
+  - [Screenshot]
+  - 
   - [Links](#links)
-- [My process](#my-process)
+- [My process](#This Webpage was built using a mobile first approach strategy)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
