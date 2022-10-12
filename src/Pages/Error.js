@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 import { ErrorContainer } from './errorPageStyles';
 
 const Error = () => {
+  // error page markup and design was gotten from : https://freefrontend.com/html-css-404-page-templates/
+  //  codepen :https://codepen.io/sarazond/pen/jOKyjZ
   return (
     <ErrorContainer>
       <div className='wrapper'>
