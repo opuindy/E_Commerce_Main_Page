@@ -42,4 +42,4 @@ I learnt the basic use of the use reducer and context-api in state management.
 
 ### Continued development
 
-Would love if anyone can review the code and suggest some steps to improve my self. Also I would continue to study to increase my comfortability using the style components, useReducer and Context-api
+Would love if anyone can review the code and suggest some steps to improve my self. Also I would continue to study to increase my comfortability using the style components, useReducer and Context-api.
