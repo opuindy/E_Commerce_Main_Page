@@ -17,8 +17,8 @@ const App = () => {
           <Route path='women' element={<Women />} />
           <Route path='about' element={<About />} />
           <Route path='contact' element={<Contact />} />
-          <Route path='*' element={<Error />} />
         </Route>
+        <Route path='*' element={<Error />} />
       </Routes>
     </BrowserRouter>
   );
